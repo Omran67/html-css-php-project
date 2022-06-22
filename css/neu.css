@@ -1,0 +1,14 @@
+a.btn {
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 30px;
+    display: block;
+    width: 200px;
+}
+.btn-orange {
+    background-color:blue;
+}
